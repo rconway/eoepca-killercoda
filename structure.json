@@ -1,9 +1,0 @@
-{
-  "items": [
-    { "path": "prerequisites" },
-    { "path": "discovery" },
-    { "path": "processing" },
-    { "path": "datacube-access" },
-    { "path": "data-gateway" }
-  ]
-}
